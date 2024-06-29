@@ -1,4 +1,4 @@
-Computational Mama is an AI prompt crafter, Creative technologist, and designer. She runs a creative technology studio called Ajaibghar. And also works as a AI Product Evangelist and Head of Developer Relations at GOOEY.AI. She has been the recipient of the prestigious Processing Foundation Fellowship 2021, curated AIxDesign’s AI Playground program in 2022.
+Computational Mama is an AI prompt crafter, Creative technologist, and designer. She runs a creative technology studio called [Ajaibghar](https://www.ajaibghar.com/). And also works as a AI Product Evangelist and Head of Developer Relations at [GOOEY.AI](https://gooey.ai/). She has been the recipient of the prestigious Processing Foundation Fellowship 2021, curated AIxDesign’s AI Playground program in 2022.
 
 <div align="center">
       <a
